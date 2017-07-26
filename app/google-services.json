@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "287043072800",
+    "firebase_url": "https://swufcmproject.firebaseio.com",
+    "project_id": "swufcmproject",
+    "storage_bucket": "swufcmproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287043072800:android:86c4814c5631a47b",
+        "android_client_info": {
+          "package_name": "com.example.pc.fcmapp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287043072800-9oc0lthi33191m9kh8jlchrudvvki16m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCongxBUT2znNXFW4PCGngudptoeIveM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
